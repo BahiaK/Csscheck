@@ -1,0 +1,79 @@
+body {
+  font-family: 'Roboto', sans-serif;
+    background-image: url("back.png");
+    background-color: #cccccc;
+   
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+  div, iframe {
+    width: 800px;
+    height:500px;
+    margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+.oo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 1100px;
+
+}
+
+
+  li {
+    display: inline;
+  padding: 8px;
+  background-color: #dddddd;
+  width: 80px;
+    height:50px;
+    margin: 120px;
+    text-decoration: none;
+  }
+  h1.go {
+    color:rgb(30, 255, 0);
+    text-align: center;
+  }
+  p {
+    color: blue;
+  }
+  section.lol {
+    text-align: center;
+  }
+  section.lol2 {
+    text-align: center;
+  }
+  section.lol3{
+    text-align: center;
+  }
+  section.lol3 {
+    text-align: center;
+  }
+  section.lol4 {
+    text-align: center;
+  }
+  table.go2{
+    text-align: center;
+    
+  }
+  table, th, td {
+    border: 1px solid rgb(42, 8, 194);
+    text-align: center;
+    color: blue;
+  }
+  .center{
+    margin-left: auto;
+  margin-right: auto;
+  }
+  .ff {
+    text-align: center;
+  }
+  #test {
+    border-radius: 50%;
+
+  }
+.ki {
+  color: blue;
+}
